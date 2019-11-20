@@ -1,6 +1,6 @@
 {
-  "name": "vant",
-  "version": "2.2.13-beta.0",
+  "name": "vant-rootvalue100",
+  "version": "1.0.4",
   "description": "Mobile UI Components built on Vue",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -13,7 +13,7 @@
     "vetur"
   ],
   "scripts": {
-    "bootstrap": "yarn || npm i",
+    "bootstrap": "npm i",
     "dev": "npm run build:entry && webpack-dev-server --config build/webpack.site.dev.js",
     "lint": "eslint ./src --ext .js,.vue,.ts,.tsx && stylelint \"src/**/*.less\" --fix",
     "build:entry": "node build/build-entry.js",
