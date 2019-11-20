@@ -1,6 +1,6 @@
 {
-  "name": "vant-rootvalue100",
-  "version": "1.0.4",
+  "name": "vant-rootvalue",
+  "version": "1.0.5",
   "description": "Mobile UI Components built on Vue",
   "main": "lib/index.js",
   "module": "es/index.js",
